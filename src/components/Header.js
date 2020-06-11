@@ -8,6 +8,7 @@ export const Header = () => {
         <img
           src={image}
           width={23}
+          alt="Expense Tracker"
           style={{
             marginRight: "2px",
           }}
